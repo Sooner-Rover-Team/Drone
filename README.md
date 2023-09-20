@@ -21,7 +21,7 @@ Collection of Python scripts and tools that provide functionality for drone cont
 
 ---
 
-## Features
+## Features (in the future)
 
 - Real-time video streaming
 - Object tracking and recognition
