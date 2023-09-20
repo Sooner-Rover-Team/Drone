@@ -8,10 +8,9 @@ Welcome to the central hub for all the software tools designed to manage and con
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
 ---
 
@@ -63,22 +62,6 @@ Collection of Python scripts and tools that provide functionality for drone cont
 3. Install Libraries
     ```
     pip install opencv-python picamera numpy
-    ```
-
----
-
-## Usage
-
-- Video Streaming
-    ```
-    from video_stream import stream_video
-    stream_video()
-    ```
-
-- Object Tracking
-    ```
-    from object_tracking import track_object
-    track_object()
     ```
 
 ---
