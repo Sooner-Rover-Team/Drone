@@ -97,4 +97,4 @@ MIT License - see the [LICENSE.md](LICENSE) file.
 
 ## Contact
 
-Contact the Rover Team at [Niels.L.Larsen-1@ou.edu](mailto:Niels.L.Larsen-1@ou.edu).
+Contact the Rover Team Drone guy at [Niels.L.Larsen-1@ou.edu](mailto:Niels.L.Larsen-1@ou.edu). [or use discord]
