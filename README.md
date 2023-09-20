@@ -91,7 +91,7 @@ Fork the repository and submit a pull request. For major changes, open an issue 
 
 ## License
 
-MIT License - see the [LICENSE.md](LICENSE.md) file.
+MIT License - see the [LICENSE.md](LICENSE) file.
 
 ---
 
