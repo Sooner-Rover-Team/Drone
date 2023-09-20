@@ -5,7 +5,7 @@ Welcome to the central hub for all the software tools designed to manage and con
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
+2. [Features](#features [In the future])
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
