@@ -5,7 +5,7 @@ Welcome to the central hub for all the software tools designed to manage and con
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features [In the future])
+2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
@@ -21,14 +21,14 @@ Collection of Python scripts and tools that provide functionality for drone cont
 
 ---
 
-## Features [In the future]
+## Features
 
 - Real-time video streaming
 - Object tracking and recognition
 - Autonomous flight paths
 - Collision avoidance
 - Data logging
-
+- - Please note that these are not yet implemented and are goals we want to achieve!
 ---
 
 ## Prerequisites
