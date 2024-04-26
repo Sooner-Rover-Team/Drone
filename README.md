@@ -23,9 +23,7 @@ Collection of Python scripts and tools that provide functionality for drone cont
 ## Features
 
 - Real-time video streaming
-- Object tracking and recognition
 - Autonomous flight paths
-- Collision avoidance
 - Data logging
 - - Please note that these are not yet implemented and are goals we want to achieve!
 ---
@@ -34,16 +32,18 @@ Collection of Python scripts and tools that provide functionality for drone cont
 
 ### Hardware
 
-- Drone with compatible API
-- Camera module
-- Raspberry Pi or similar SBC
+- ESP-32 Microcontoller
+- Some sort of single board computer like (Raspberry PI) or (LibreBoard Le Potato)
+- Electronic Speed Controllers
+- Motors
+- Propellers
+- Batteries (Preferablly LiIon, due to safety)
+- Frame - 3D printed or purchased
+- RC Controller and Reciever for Manual Operation
 
 ### Software
 
-- Python 3.x
-- OpenCV
-- piCamera
-- numpy
+- Rust
 
 ---
 
