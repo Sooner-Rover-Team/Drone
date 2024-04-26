@@ -58,12 +58,10 @@ Collection of Python scripts and tools that provide functionality for drone cont
     ```
     cd drone-repository
     ```
-
-3. Install Libraries
-    ```
-    pip install opencv-python picamera numpy
-    ```
-
+3. Install Rust Ecosystem
+   ```
+   https://rustup.rs/
+   ```
 ---
 
 ## Contributing
